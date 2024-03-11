@@ -8,6 +8,8 @@ I specialize in building scalable and efficient solutions using the .NET framewo
 
 ### Languages and Tools
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
@@ -15,8 +17,6 @@ I specialize in building scalable and efficient solutions using the .NET framewo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="12" />
@@ -33,6 +33,7 @@ I specialize in building scalable and efficient solutions using the .NET framewo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
+<img src="https://miro.medium.com/v2/resize:fit:492/format:webp/1*YTBM5KbJlZ8Gm1p8ddx1LQ.png" />
 
 <!--
 **ozdeeraslan/ozdeeraslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
