@@ -4,7 +4,7 @@
 Hi,I'm Özdenur🙌, a passionate .NET Full Stack Developer.❤
 <br/>
 
-<img src="https://miro.medium.com/v2/resize:fit:492/format:webp/1*YTBM5KbJlZ8Gm1p8ddx1LQ.png" height="50" />
+<img src="https://miro.medium.com/v2/resize:fit:492/format:webp/1*YTBM5KbJlZ8Gm1p8ddx1LQ.png" height="100" />
 
 <br/>
 
