@@ -6,7 +6,7 @@ Hi,I'm Özdenur🙌, a passionate .NET Full Stack Developer.❤
 
 I specialize in building scalable and efficient solutions using the .NET framework, both on the backend and frontend.✌
 
-## Talking about Personal Stuffs:
+# Talking about Personal Stuffs:
 
 
 <!--
