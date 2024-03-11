@@ -9,7 +9,7 @@ Hi,I'm Özdenur🙌, a passionate .NET Full Stack Developer.❤
 I specialize in building scalable and efficient solutions using the .NET framework, both on the backend and frontend.✌
 
 ### Languages and Tools
-<div align="center">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
