@@ -4,6 +4,10 @@
 Hi,I'm Özdenur🙌, a passionate .NET Full Stack Developer.❤
 <br/>
 
+<img src="https://miro.medium.com/v2/resize:fit:492/format:webp/1*YTBM5KbJlZ8Gm1p8ddx1LQ.png" height="50" />
+
+<br/>
+
 I specialize in building scalable and efficient solutions using the .NET framework, both on the backend and frontend.✌
 
 ### Languages and Tools
@@ -33,7 +37,6 @@ I specialize in building scalable and efficient solutions using the .NET framewo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
 
-<img src="https://miro.medium.com/v2/resize:fit:492/format:webp/1*YTBM5KbJlZ8Gm1p8ddx1LQ.png" />
 
 <!--
 **ozdeeraslan/ozdeeraslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
