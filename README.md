@@ -1,6 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-
+### Hello World👋 It's <a href="https://ozdeeraslan.github.io/">Özdenur<a/>
 <!--
 **ozdeeraslan/ozdeeraslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
