@@ -22,7 +22,10 @@ I specialize in building scalable and efficient solutions using the .NET framewo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   </div>
 
-###  Contact Here 
+### Contact Here 
+  <a href="https://www.linkedin.com/in/ozdenureraslan/" target="_blank">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="40" alt="linkedin logo"  />
+  </a>
 
 
 <!--
