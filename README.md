@@ -22,11 +22,9 @@ I specialize in building scalable and efficient solutions using the .NET framewo
   </div>
 
 ### Contact Here 
-
   <a href="https://www.linkedin.com/in/ozdenureraslan/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="25" alt="linkedin logo"  />
   </a>
-
 
 <!--
 **ozdeeraslan/ozdeeraslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
