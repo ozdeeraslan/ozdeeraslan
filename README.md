@@ -24,7 +24,7 @@ I specialize in building scalable and efficient solutions using the .NET framewo
 
 ### Contact Here 
   <a href="https://www.linkedin.com/in/ozdenureraslan/" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="40" alt="linkedin logo"  />
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="25" alt="linkedin logo"  />
   </a>
 
 
