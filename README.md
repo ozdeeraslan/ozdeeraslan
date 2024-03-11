@@ -1,7 +1,7 @@
 ## Hello World👋 It's <a href="https://ozdeeraslan.github.io/">Özdenur<a/> <img src="https://miro.medium.com/v2/resize:fit:492/format:webp/1*YTBM5KbJlZ8Gm1p8ddx1LQ.png" height="40" />
 <br/>
 
-Hi,I'm Özdenur🙌, a passionate .NET Full Stack Developer.❤
+Hi, I'm Özdenur🙌, a passionate .NET Full Stack Developer.❤
 <br/>
 
 I specialize in building scalable and efficient solutions using the .NET framework, both on the backend and frontend.✌
@@ -23,7 +23,7 @@ I specialize in building scalable and efficient solutions using the .NET framewo
   </div>
 
 ### Contact Here 
-  <a href="https://www.linkedin.com/in/ozdenureraslan/" target="_blank">
+  <a href="https://www.linkedin.com/in/ozdenureraslan/">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="25" alt="linkedin logo"  />
   </a>
 
