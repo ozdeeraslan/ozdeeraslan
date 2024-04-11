@@ -1,7 +1,8 @@
 ## Hello World👋 It's Özdenur
 
-[## Hello World👋 It's <a href="https://ozdeeraslan.github.io/">Özdenur<a/> 
-](url)
+<!--
+## Hello World👋 It's <a href="https://ozdeeraslan.github.io/">Özdenur<a/> 
+-->
 
 Hi, I'm Özdenur🙌, a passionate .NET Full Stack Developer.❤
 <br/>
